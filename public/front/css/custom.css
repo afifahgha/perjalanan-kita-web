@@ -1,0 +1,30 @@
+.featured-img{
+    width: 100%;
+    height: 350px;
+    object-fit: cover;
+    border-radius: calc(B.24rem - 1px);
+}
+
+.post-img{
+    width: 100%;
+    height: 350px;
+    object-fit: cover;
+    border-radius: calc(B.24rem - 1px);
+}
+
+.card-height{
+    height: 300px;
+    position: relative;
+    padding-bottom: 40px; 
+}
+
+.card-btn{
+    position: absolute;
+    bottom: 15px;  
+    left: 15px; 
+    text-align: center;
+}
+
+.text-justify {
+    text-align: justify;
+}
